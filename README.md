@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-:heavy_check_mark: ## Intoduction
+:heavy_check_mark: <h2> Intoduction
 Hi,
 
-:heavy_check_mark: ##studying
+:heavy_check_mark: <h2>studying
 
 <img src="https://img.shields.io/badge/Java-004088?style=flat&logo=&logoColor=white"/>
 
