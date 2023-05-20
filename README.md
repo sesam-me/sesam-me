@@ -1,6 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=hexcode&height=300&section=header&text=capsule%20render&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hi,there👋- &height=50&fontSize=40&fontColor=A6B237&animation=fadeIn) -->
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=088513&width=435&lines=Hi%2CI'm+sesam)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
+   <br><img src="https://img.shields.io/badge/Insta-E4405F?style=flat&logo=instagram&logoColor=white"/> <a href="https://sesam-dev.tistory.com"><img src="https://img.shields.io/badge/Tistoty-000000?style=flat&logo=tistory&logoColor=white"/> <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+studying)](https://git.io/typing-svg)
+  <br><img src="https://img.shields.io/badge/Java-004088?style=flat&logo&logoColor=white"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+Git+State)](https://git.io/typing-svg)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sesam-me&show_icons=true&text_color=black&ring_color=A6B237)
+
+
+
+
+
+
+
+
 
 <!--
 **sesam-me/sesam-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +34,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- <h3>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
+ 
+ :heavy_check_mark:  studying
+  <br><img src="https://img.shields.io/badge/Java-004088?style=flat&logo=&logoColor=white"/>
 
-:heavy_check_mark:  <h3> Intoduction
-Hi,
-
-:heavy_check_mark: <h3>studying
-
-<img src="https://img.shields.io/badge/Java-004088?style=flat&logo=&logoColor=white"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sesam-me&show_icons=true)
+<br> :heavy_check_mark:  State
+  < -->
