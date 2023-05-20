@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:heavy_check_mark: sudying
+
+:heavy_check_mark: ## Intoduction
+Hi,
+
+:heavy_check_mark: ##studying
 
 <img src="https://img.shields.io/badge/Java-004088?style=flat&logo=&logoColor=white"/>
 
