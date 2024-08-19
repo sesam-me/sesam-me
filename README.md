@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=088513&width=435&lines=Hi%2CI'm+sesam)](https://git.io/typing-svg)
 
 
-반갑습니다.ddd
+반갑습니다.ddddddd
 공부중입니다.fff
 
 
