@@ -11,21 +11,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
    <br><a href="https://sesam-dev.tistory.com"><img src="https://img.shields.io/badge/Tistoty-000000?style=flat&logo=tistory&logoColor=white"/> 
-<br> 📫 email: lsi6601@gmail.com
-<br><br>
-   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&height=25&lines=+%E2%9C%94+contact)
-<div align="left">
+<br> `📫 email: lsi6601@gmail.com`
 
-</div>
 
-<br><br>
+<!--Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&height=25&lines=+%E2%9C%94+contact)
+-->
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+studying)](https://git.io/typing-svg)
-  <br><img src="https://img.shields.io/badge/Java-004088?style=flat&logo&logoColor=white"/>
-   <br>
+  <br>
+     <img src="https://img.shields.io/badge/Java-004088?style=flat&logo&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Sping-6DB33F?style=flat&logo&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MSA-7D64FF?style=flat&logo&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo&logoColor=white"/>
+  <br>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo&logoColor=white"/>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo&logoColor=white"/>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesam-me&layout=compact)
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+Git+State)](https://git.io/typing-svg)
  <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sesam-me&show_icons=true&text_color=black&ring_color=A6B237)
