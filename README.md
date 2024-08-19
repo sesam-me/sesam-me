@@ -35,9 +35,10 @@
 
 <br>
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+Git+State)](https://git.io/typing-svg)
  <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sesam-me&show_icons=true&text_color=black&ring_color=A6B237)
- 
+ -->
 
 
 
