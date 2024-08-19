@@ -8,6 +8,11 @@
 <br>회사의 목표와 제 목표를 일치시키며, 
 <br>이를 통해 열정적으로 오래 일할 수 있는 개발자가 되겠습니다.
 
+<p align="center">
+  <img src="이미지_URL" />
+</p>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
    <br><a href="https://sesam-dev.tistory.com"><img src="https://img.shields.io/badge/Tistoty-000000?style=flat&logo=tistory&logoColor=white"/> 
