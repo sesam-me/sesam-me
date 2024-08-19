@@ -9,8 +9,10 @@
 <br>이를 통해 열정적으로 오래 일할 수 있는 개발자가 되겠습니다.
 
 <p align="center">
-  <img src="이미지_URL" />
+  <img src="https://github.com/user-attachments/assets/6587a5ca-323c-4676-839a-b7d29f584393" alt="ai-generated" width="20%" height="20%" />
 </p>
+
+
 
 
 
