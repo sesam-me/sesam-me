@@ -1,3 +1,5 @@
+
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hi,there👋- &height=50&fontSize=40&fontColor=A6B237&animation=fadeIn) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=088513&width=435&lines=Hi%2CI'm+sesam)](https://git.io/typing-svg)
@@ -9,15 +11,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
    <br><a href="https://sesam-dev.tistory.com"><img src="https://img.shields.io/badge/Tistoty-000000?style=flat&logo=tistory&logoColor=white"/> 
-
-
+<br> 📫 email: lsi6601@gmail.com
+<br><br>
+   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&height=25&lines=+%E2%9C%94+contact)
-- 📫 email: lsi6601@gmail.com
+<div align="left">
 
+</div>
+
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+studying)](https://git.io/typing-svg)
   <br><img src="https://img.shields.io/badge/Java-004088?style=flat&logo&logoColor=white"/>
-   
+   <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesam-me&layout=compact)
 
 
