@@ -6,7 +6,7 @@
 
 
 반갑습니다.ddd
-공부중입니다.f
+공부중입니다.fff
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
