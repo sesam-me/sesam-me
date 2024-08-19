@@ -5,8 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=088513&width=435&lines=Hi%2CI'm+sesam)](https://git.io/typing-svg)
 
 
-반갑습니다.ddddddd
-공부중입니다.fffddd
+단순히 코드를 작성하는 것 이상의 가치를 추구하며, 
+항상 일의 목적과 효율성을 고민합니다.
+회사의 목표와 제 목표를 일치시키며, 
+이를 통해 열정적으로 오래 일할 수 있는 개발자가 되겠습니다.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+me)](https://git.io/typing-svg)
