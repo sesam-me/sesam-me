@@ -11,6 +11,10 @@
    <br><a href="https://sesam-dev.tistory.com"><img src="https://img.shields.io/badge/Tistoty-000000?style=flat&logo=tistory&logoColor=white"/> 
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&height=25&lines=+%E2%9C%94+contact)
+- 📫 email: lsi6601@gmail.com
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Narrow&size=17&duration=10&pause=1000&color=000000&repeat=false&width=435&lines=+%E2%9C%94+studying)](https://git.io/typing-svg)
   <br><img src="https://img.shields.io/badge/Java-004088?style=flat&logo&logoColor=white"/>
    
