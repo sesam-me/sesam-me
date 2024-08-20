@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=088513&center=true&width=435&lines=Hi%2CI'm+sesam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&width=435&lines=Hi%2CI'm+sesam)](https://git.io/typing-svg)
+
 
 
 단순히 코드를 작성하는 것 이상의 가치를 추구하며, 
